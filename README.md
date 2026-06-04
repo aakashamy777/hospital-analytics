@@ -29,3 +29,10 @@ Analysis of 55,500 patient records using MySQL.
 ## Files
 - `schema_and_queries.sql` - All 20 analysis queries
 - `hospital_analytics.ipynb` - Python + Colab analysis with visualizations
+
+## Colab Notebook
+[Run in Google Colab](https://colab.research.google.com/drive/1bIKi4PhU5jIqRvzOHky3Wf2r4guwWPWY?usp=sharing)
+
+## Dashboard Preview
+![Dashboard](hospital_dashboard.png)
+
